@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">DictionaryApp</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear">Clear</string>
+    <string name="audio">Audio</string>
+    <string name="search">Search</string>
+    <string name="search_history">Search history</string>
+    <string name="search_field_hint">Search…</string>
+    <string name="toast_error_message">Error occurred</string>
+    <string name="toast_unknown_error_message">Error</string>
+    <string name="history_clear_dialog_title">Clear search history?</string>
+    <string name="history_clear_dialog_dismiss_button">Cancel</string>
+    <string name="history_clear_dialog_confirm_button">Delete all</string>
+</resources>
